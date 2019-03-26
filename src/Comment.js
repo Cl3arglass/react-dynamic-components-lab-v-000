@@ -5,7 +5,7 @@ import BlogPost from "./BlogPost.js";
 class Comment extends React.Component {
   render() {
     return (
-      <div>
+      <div className="comment">
         {this.props.commentText}
       </div>
     )
