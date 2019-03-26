@@ -1,6 +1,6 @@
 // add Comment component here
 import React, { Component } from 'react';
-import BlogPost from "./BlogPost.js";
+import BlogPost from "src/BlogPost.js";
 
 class Comment extends React.Component {
   render() {
