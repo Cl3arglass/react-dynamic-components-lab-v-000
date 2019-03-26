@@ -1,7 +1,7 @@
 // add Comment component here
 import React, { Component } from 'react'
 
-class BlogContent extends React.Component {
+class Comment extends React.Component {
   render() {
     return (
       <div>
